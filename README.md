@@ -30,3 +30,17 @@ const joel = {
   philosophy: "Clean code, intuitive design, and turning raw data into insight.",
   when_stuck: () => watchChelsea() || listenToMusic(), // ⚽💙 Blue is the color!
 };
+
+$ current --focus
+⚡ Modern Frontend & Interactive Web
+Building snappy, accessible, responsive user interfaces using modern JavaScript, React, and seamless UI transitions.
+
+📊 Data Analytics & Business Intelligence
+Transforming raw data into clear, actionable business stories using SQL, Power BI, and data visualization.
+
+🛍️ Client Solutions & Online Storefronts
+Architecting production-ready client websites (e-commerce storefronts, educational portals, and booking systems).
+
+🚀 Continuous Growth & Fullstack
+Deepening fullstack workflows, component architecture, API design, and database modeling.
+stack --list
