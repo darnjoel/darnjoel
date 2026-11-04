@@ -11,22 +11,3 @@
 [![Ghana Rank](https://user-badge.committers.top/ghana/darnjoel.svg)](https://github.com/darnjoel)
 
 </div>
-
-## `$ whoami`
-
-```typescript
-const joel = {
-  location: "Ghana 🇬🇭",
-  role: "Web Developer & Data Analyst",
-  focus: ["Frontend", "Data Analytics", "Full-stack Web", "UI/UX"],
-
-  daily_drivers: {
-    frontend: ["JavaScript (ES6+)", "React", "Next.js", "HTML5", "CSS3 / Tailwind"],
-    backend:  ["Node.js", "REST APIs", "Express", "SQL"],
-    data:     ["Power BI", "SQL", "Data Cleaning", "Data Visualization"],
-    tools:    ["Git", "GitHub", "VS Code", "Figma", "Postman"],
-  },
-
-  philosophy: "Clean code, intuitive design, and turning raw data into insight.",
-  when_stuck: () => watchChelsea() || listenToMusic(), // ⚽💙 Blue is the color!
-};
