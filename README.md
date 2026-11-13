@@ -23,7 +23,7 @@ const joel = {
   daily_drivers: {
     frontend: ["JavaScript (ES6+)", "React", "Next.js", "HTML5", "CSS3 / Tailwind"],
     backend:  ["Node.js", "REST APIs", "Express", "SQL"],
-    data:     ["Power BI", "SQL", "Data Cleaning", "Data Visualization"],
+    data:     ["Power BI", "Excel", "SQL", "Data Cleaning", "Data Visualization"],
     tools:    ["Git", "GitHub", "VS Code", "Figma", "Postman"],
   },
 
@@ -67,7 +67,7 @@ Deepening fullstack workflows, component architecture, API design, and database 
 
 **Backend, Data & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,supabase&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,supabase,excel&perline=8" />
 
 **Tools & Workflow**
 
