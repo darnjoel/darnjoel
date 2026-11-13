@@ -69,6 +69,7 @@ Deepening fullstack workflows, component architecture, API design, and database 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,supabase&perline=8" />
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" height="48" alt="Excel" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" alt="Power BI" />
 
 **Tools & Workflow**
 
