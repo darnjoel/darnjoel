@@ -22,7 +22,7 @@ const joel = {
 
   daily_drivers: {
     frontend: ["JavaScript (ES6+)", "React", "Next.js", "HTML5", "CSS3 / Tailwind"],
-    backend:  ["Node.js", "REST APIs", "Express", "SQL"],
+    backend:  ["Node.js", "PHP", "REST APIs", "Express", "SQL"],
     data:     ["Power BI", "Excel", "SQL", "Data Cleaning", "Data Visualization"],
     tools:    ["Git", "GitHub", "VS Code", "Figma", "Postman"],
   },
@@ -67,13 +67,13 @@ Deepening fullstack workflows, component architecture, API design, and database 
 
 **Backend, Data & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,supabase&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,express,mysql,mongodb,postgres,supabase&perline=8" />
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" height="48" alt="Excel" />
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" alt="Power BI" />
 
 **Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,cloudflare&perline=8" />
 
 </div>
 
